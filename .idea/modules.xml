@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dsm/dsm.iml" filepath="$PROJECT_DIR$/dsm/dsm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/employee-managment-microservice.iml" filepath="$PROJECT_DIR$/.idea/employee-managment-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esm/esm.iml" filepath="$PROJECT_DIR$/esm/esm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
+    </modules>
+  </component>
+</project>
